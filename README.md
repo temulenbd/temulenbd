@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **atbd88@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/temulenbd/](https://www.linkedin.com/in/temulenbd/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/temulenbd/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
