@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TEE</h1>
-<h3 align="center">Data Enthusiast | Recent Graduate in Data Analytics | Building Insights Through Code</h3>
+<h1 align="left">Hi 👋, I'm TEE</h1>
+<h3 align="left"> Recent Graduate in Data Analytics | Data Enthusiast | Building Insights Through Code</h3>
 
 - 📫 How to reach me **atbd88@gmail.com**
 
