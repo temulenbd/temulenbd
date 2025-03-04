@@ -1,4 +1,4 @@
-<h1 align="centre">Hi 👋, I'm TEE</h1>
+<h1 align="centre">Hello, I'm TEE (Temuulen Bulgan) 👋,</h1>
 <h2 align="left"> Recent Graduate in Data Analytics | Data Enthusiast | Building Insights through Code</h3>
 
 - 📫 How to reach me **atbd88@gmail.com**
